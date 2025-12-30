@@ -197,7 +197,7 @@ spring.jpa.show-sql=true
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/employee-crud-springboot.git
+   git clone https://github.com/Karthi0609/Employee_CRUD.git
    ```
 2. Import into IDE (STS)
 3. Configure MySQL credentials
